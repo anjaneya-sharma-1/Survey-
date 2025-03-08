@@ -735,23 +735,7 @@ void tittle()
 
     cout << "|           SDF MINI PROJECT               |" << endl;
 
-    cout << "|  Made by Backbenchers of B10, JIIT Noida |" << endl;
 
-    cout << "-------------------------------------------" << endl;
-
-    cout << "|    Anjaneya Sharma - 23103301            |" << endl;
-
-    cout << "-------------------------------------------" << endl;
-
-    cout << "|    Shubham Kumar - 23103295              |" << endl;
-
-    cout << "-------------------------------------------" << endl;
-
-    cout << "|    Annant Kumar Singh - 23103291         |" << endl;
-
-    cout << "-------------------------------------------" << endl;
-
-    cout << "|    Arjun Kumar - 23103284                |" << endl;
 
     cout << " +++++++++++++++++++++++++++++++++++++++++++++" << endl;
 
